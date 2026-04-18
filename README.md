@@ -5,4 +5,4 @@
 <h1>Tecnologias utilizadas:</h1>
 <p>HTML</p>
 <p>CSS</p>
-<img src=""/>
+<img src="https://github.com/carlosedreis/projeto-wide/blob/main/img/Porjeto%20Wide.png?raw=true"/>
